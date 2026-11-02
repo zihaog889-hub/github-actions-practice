@@ -1,5 +1,5 @@
 def add(a, b):
-    return a * b  # Deliberate error for the CI failure demonstration.
+    return a + b
 
 
 def multiply(a, b):
